@@ -12,8 +12,11 @@ Sou um engenheiro de software apaixonado por transformar sistemas legados em arq
 
 ### 🛠 Tech Stack
 **Back-end:** ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white) ![Micronaut](https://img.shields.io/badge/-Micronaut-000000?logo=micronaut&logoColor=white)
+<br>
 **Banco de Dados:** ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Flyway](https://img.shields.io/badge/-Flyway-CC0200?logo=flyway&logoColor=white)
+<br>
 **Infra & Cloud:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+<br>
 **Qualidade:** ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white) ![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?logo=cucumber&logoColor=white)
 
 ---
